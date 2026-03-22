@@ -1,0 +1,10 @@
+.image{
+
+    background-image: url("/secound/image-resources2.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.one {
+    color: rgb(219, 209, 209);
+}
